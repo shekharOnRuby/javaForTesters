@@ -15,7 +15,7 @@ public class SelectionAndDecisions {
         assertEquals("Cats",testString);
     }
 
-
+// do not understand assertEquals implementation
     @Test
     public void testCatsTwo(){
         assertEquals("1==cat","cat",catOrCats(1));
